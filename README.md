@@ -3,8 +3,8 @@
 This repository contains my solutions to the **HackerRank 1-Week Preparation Kit** challenges. The goal is to improve problem-solving skills and strengthen algorithmic thinking by solving a set of problems categorized into basic and intermediate levels.
 
 ## 📌 Progress
-- **Challenges Completed:** 7 / 21  
-- **Mock Tests Taken:** 2 / 6  
+- **Challenges Completed:** 21 / 21  
+- **Mock Tests Taken:** 6 / 6  
 
 ## 🚀 Topics Covered
 - Problem Solving (Basic)
