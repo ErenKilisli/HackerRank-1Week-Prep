@@ -9,10 +9,12 @@ This repository contains my solutions to the **HackerRank 1-Week Preparation Kit
 ## 🚀 Topics Covered
 - Problem Solving (Basic)
 - Problem Solving (Intermediate)
+- Problem Solving (Advanced)
 - Additional Algorithmic Challenges
 
 ## 🛠️ Technologies Used
 - C# / .NET
+- C++
 - Data Structures & Algorithms
 - Competitive Programming Concepts
 
