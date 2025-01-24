@@ -11,8 +11,8 @@ vector<string> split(const string &);
  *
  * The function is expected to return an INTEGER.
  * The function accepts following parameters:
- *  1. INTEGER n
- *  2. INTEGER m
+ *  1. INTEGER n changed to height
+ *  2. INTEGER m changed to width
  */
 
 int legoBlocks(int height, int width)
