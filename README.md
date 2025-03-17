@@ -15,6 +15,7 @@ This repository contains my solutions to the **HackerRank 1-Week Preparation Kit
 ## 🛠️ Technologies Used
 - C# / .NET
 - C++
+- Python
 - Data Structures & Algorithms
 - Competitive Programming Concepts
 
