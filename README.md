@@ -26,9 +26,6 @@ The aim is to complete all 21 challenges and 6 mock tests within a week while im
 This repository is for personal practice, but feel free to explore and discuss solutions!
 
 ## 📢 Contact
-If you have any suggestions or want to collaborate, reach out to me!
-## Contact
-
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email:** [ierenkilisli@gmail.com](mailto:ierenkilisli@gmail.com)
